@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misssirius/Desktop/C_Work/HW_8/test/Poly.hpp
+stdlib.h
+-
+vector
+-
+iostream
+-
+
+/home/misssirius/Desktop/C_Work/HW_8/test/test_polynomials.cpp
+Poly.hpp
+/home/misssirius/Desktop/C_Work/HW_8/test/Poly.hpp
+iostream
+-
+math.h
+-
+

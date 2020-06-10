@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misssirius/Desktop/C_Work/HW_8/test/Poly.hpp
+stdlib.h
+-
+vector
+-
+iostream
+-
+
+/home/misssirius/Desktop/C_Work/HW_8/test/functional_forms.hpp
+stdlib.h
+-
+math.h
+-
+iostream
+-
+
+/home/misssirius/Desktop/C_Work/HW_8/test/newton.hpp
+stdlib.h
+-
+
+/home/misssirius/Desktop/C_Work/HW_8/test/test_newton.cpp
+Poly.hpp
+/home/misssirius/Desktop/C_Work/HW_8/test/Poly.hpp
+functional_forms.hpp
+/home/misssirius/Desktop/C_Work/HW_8/test/functional_forms.hpp
+newton.hpp
+/home/misssirius/Desktop/C_Work/HW_8/test/newton.hpp
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hello.dir/lotterystation.cpp.o CMakeFiles/hello.dir/main.cpp.o CMakeFiles/hello.dir/tickets.cpp.o  -o hello 

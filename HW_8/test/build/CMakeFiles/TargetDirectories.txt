@@ -1,0 +1,5 @@
+/home/misssirius/Desktop/C_Work/HW_8/test/build/CMakeFiles/rebuild_cache.dir
+/home/misssirius/Desktop/C_Work/HW_8/test/build/CMakeFiles/test_polynomials.dir
+/home/misssirius/Desktop/C_Work/HW_8/test/build/CMakeFiles/test_lambdas.dir
+/home/misssirius/Desktop/C_Work/HW_8/test/build/CMakeFiles/test_newton.dir
+/home/misssirius/Desktop/C_Work/HW_8/test/build/CMakeFiles/edit_cache.dir

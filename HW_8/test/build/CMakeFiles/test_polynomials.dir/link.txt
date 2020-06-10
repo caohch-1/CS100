@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_polynomials.dir/test_polynomials.cpp.o  -o test_polynomials 

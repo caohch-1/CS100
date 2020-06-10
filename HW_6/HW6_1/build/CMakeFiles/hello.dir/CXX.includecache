@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misssirius/Desktop/HW6/HW6_1/CustomSet.hpp
+vector
+-
+iostream
+-
+utility
+-
+
+/home/misssirius/Desktop/HW6/HW6_1/main.cpp
+CustomSet.hpp
+/home/misssirius/Desktop/HW6/HW6_1/CustomSet.hpp
+algorithm
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misssirius/Desktop/C_Work/HW_8/test/Poly.hpp
+stdlib.h
+-
+vector
+-
+iostream
+-
+
+/home/misssirius/Desktop/C_Work/HW_8/test/functional_forms.hpp
+stdlib.h
+-
+math.h
+-
+iostream
+-
+
+/home/misssirius/Desktop/C_Work/HW_8/test/test_lambdas.cpp
+Poly.hpp
+/home/misssirius/Desktop/C_Work/HW_8/test/Poly.hpp
+functional_forms.hpp
+/home/misssirius/Desktop/C_Work/HW_8/test/functional_forms.hpp
+iostream
+-
+math.h
+-
+

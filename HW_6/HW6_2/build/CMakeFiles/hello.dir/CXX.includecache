@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misssirius/Desktop/HW6/HW6_2/customset.h
+vector
+-
+iostream
+-
+utility
+-
+
+/home/misssirius/Desktop/HW6/HW6_2/lotterystation.cpp
+iostream
+-
+random
+-
+time.h
+-
+lotterystation.h
+/home/misssirius/Desktop/HW6/HW6_2/lotterystation.h
+
+/home/misssirius/Desktop/HW6/HW6_2/lotterystation.h
+tickets.h
+/home/misssirius/Desktop/HW6/HW6_2/tickets.h
+
+/home/misssirius/Desktop/HW6/HW6_2/main.cpp
+iostream
+-
+lotterystation.h
+/home/misssirius/Desktop/HW6/HW6_2/lotterystation.h
+
+/home/misssirius/Desktop/HW6/HW6_2/tickets.cpp
+iostream
+-
+tickets.h
+/home/misssirius/Desktop/HW6/HW6_2/tickets.h
+
+/home/misssirius/Desktop/HW6/HW6_2/tickets.h
+customset.h
+/home/misssirius/Desktop/HW6/HW6_2/customset.h
+

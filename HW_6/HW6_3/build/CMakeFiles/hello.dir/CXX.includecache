@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misssirius/Desktop/HW6/HW6_3/customset.h
+vector
+-
+iostream
+-
+utility
+-
+
+/home/misssirius/Desktop/HW6/HW6_3/gechatuser.h
+iostream
+-
+memory
+-
+string
+-
+customset.h
+/home/misssirius/Desktop/HW6/HW6_3/customset.h
+
+/home/misssirius/Desktop/HW6/HW6_3/main.cpp
+gechatuser.h
+/home/misssirius/Desktop/HW6/HW6_3/gechatuser.h
+
