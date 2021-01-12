@@ -1,1 +1,3 @@
-# cs100-2019a
+Shanghaitech 2019-Fall CS100 Introduction to Programming
+
+All AC
